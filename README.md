@@ -1,4 +1,4 @@
-![소개](https://capsule-render.vercel.app/api?type=cylinder&height=287&color=gradient&text=박부건)
+![소개](https://capsule-render.vercel.app/api?type=cylinder&height=100&color=gradient&text=박부건)
 
 <p>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
