@@ -1,5 +1,11 @@
 ![소개](https://capsule-render.vercel.app/api?type=cylinder&height=287&color=gradient&text=박부건)
 
+<p>
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  
+</p>
+
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BugeonPark)](https://github.com/BugeonPark/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sehunpsh)](https://solved.ac/sehunpsh/)
