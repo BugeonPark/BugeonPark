@@ -1,7 +1,13 @@
 ![소개](https://capsule-render.vercel.app/api?type=cylinder&height=100&color=gradient&text=박부건)
 
 <p>
+<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img alt="JPA" src="https://img.shields.io/badge/-JPA-13aa52?style=flat-square&logo=jpa&logoColor=white" />
+  <img alt="SpringJPA" src="https://img.shields.io/badge/-SpringJPA-13aa52?style=flat-square&logo=springjpa&logoColor=white" />
   
 </p>
 
